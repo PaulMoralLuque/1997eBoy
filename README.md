@@ -17,6 +17,7 @@ eBoy fue fundado por Steffen Sauerteig, Svend Smital y Kai Vermehr en 1997. Auqu
 Su trabajo a menudo presenta escenas urbanas y caoticas detalladas compuestas por una gran catidad de pixeles. Este estilo se volvió iconico e influenciador en la cultura digital en línea.
 
 ![imagen](https://github.com/PaulMoralLuque/1997eBoy/blob/main/a6122821e541c6e9ae497d822ad1886c.png "titulo")
+
 ### Resumen
 
 Resumiendo; eBoy en 1997 era un colectivo de diseño grafico conocido por su estilo de diseño pixelado y su influencia en la cultura en línea.
